@@ -1,0 +1,14 @@
+.container{
+   text-align: center;
+}
+.display{
+    padding: 10px;
+}
+.display input{
+    background-color: red;
+    font-size: larger;
+}
+button{
+    font-size: 15px;
+    background-color: aqua;
+}
